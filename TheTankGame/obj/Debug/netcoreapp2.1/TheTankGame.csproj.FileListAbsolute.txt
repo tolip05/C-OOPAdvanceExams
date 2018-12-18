@@ -1,0 +1,11 @@
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.deps.json
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.json
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.dev.json
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csprojAssemblyReference.cache
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csproj.CoreCompileInputs.cache
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfoInputs.cache
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfo.cs
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.dll
+D:\ExamsC#\Popravka\Skeleton (.NET Core)\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.pdb
